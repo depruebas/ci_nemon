@@ -1,0 +1,468 @@
+[2020-08-09 21:23:26] - 8 -  A non well formed numeric value encountered - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 39
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:24:11] - 8 -  A non well formed numeric value encountered - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 39
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:25:53] - 8 -  A non well formed numeric value encountered - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 39
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:27:50] - 8 -  A non well formed numeric value encountered - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 39
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:46:12] - 8 -  Undefined variable: numero - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 50
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:46:12] - 8 -  Undefined variable: numero - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 50
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:46:12] - 8 -  Undefined variable: numero - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 50
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:46:12] - 8 -  Undefined variable: numero - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 50
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:46:12] - 8 -  Undefined variable: numero - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 50
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:46:12] - 8 -  Undefined variable: numero - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 50
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:46:12] - 8 -  Undefined variable: numero - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 50
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:46:12] - 8 -  Undefined variable: numero - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 50
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:46:12] - 8 -  Undefined variable: numero - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 50
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:46:12] - 8 -  Undefined variable: numero - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 50
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:46:12] - 8 -  Undefined variable: numero - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 50
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:46:12] - 8 -  Undefined variable: numero - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 50
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:46:49] - 8 -  Undefined variable: ffini - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:46:49] - 8 -  Trying to access array offset on value of type null - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:46:49] - 2 -  cal_days_in_month(): invalid date - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:46:49] - 8 -  Undefined variable: numero - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 50
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:46:49] - 8 -  Undefined variable: ffini - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:46:49] - 8 -  Trying to access array offset on value of type null - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:46:49] - 2 -  cal_days_in_month(): invalid date - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:46:49] - 8 -  Undefined variable: numero - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 50
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:46:49] - 8 -  Undefined variable: ffini - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:46:49] - 8 -  Trying to access array offset on value of type null - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:46:49] - 2 -  cal_days_in_month(): invalid date - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:46:49] - 8 -  Undefined variable: numero - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 50
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:46:49] - 8 -  Undefined variable: ffini - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:46:49] - 8 -  Trying to access array offset on value of type null - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:46:49] - 2 -  cal_days_in_month(): invalid date - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:46:49] - 8 -  Undefined variable: numero - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 50
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:46:49] - 8 -  Undefined variable: ffini - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:46:49] - 8 -  Trying to access array offset on value of type null - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:46:49] - 2 -  cal_days_in_month(): invalid date - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:46:49] - 8 -  Undefined variable: numero - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 50
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:46:49] - 8 -  Undefined variable: ffini - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:46:49] - 8 -  Trying to access array offset on value of type null - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:46:49] - 2 -  cal_days_in_month(): invalid date - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:46:49] - 8 -  Undefined variable: numero - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 50
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:46:49] - 8 -  Undefined variable: ffini - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:46:49] - 8 -  Trying to access array offset on value of type null - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:46:49] - 2 -  cal_days_in_month(): invalid date - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:46:49] - 8 -  Undefined variable: numero - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 50
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:46:49] - 8 -  Undefined variable: ffini - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:46:49] - 8 -  Trying to access array offset on value of type null - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:46:49] - 2 -  cal_days_in_month(): invalid date - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:46:49] - 8 -  Undefined variable: numero - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 50
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:46:49] - 8 -  Undefined variable: ffini - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:46:49] - 8 -  Trying to access array offset on value of type null - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:46:49] - 2 -  cal_days_in_month(): invalid date - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:46:49] - 8 -  Undefined variable: numero - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 50
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:46:49] - 8 -  Undefined variable: ffini - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:46:49] - 8 -  Trying to access array offset on value of type null - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:46:49] - 2 -  cal_days_in_month(): invalid date - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:46:49] - 8 -  Undefined variable: numero - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 50
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:46:49] - 8 -  Undefined variable: ffini - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:46:49] - 8 -  Trying to access array offset on value of type null - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:46:49] - 2 -  cal_days_in_month(): invalid date - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:46:49] - 8 -  Undefined variable: numero - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 50
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:46:49] - 8 -  Undefined variable: ffini - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:46:49] - 8 -  Trying to access array offset on value of type null - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:46:49] - 2 -  cal_days_in_month(): invalid date - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:46:49] - 8 -  Undefined variable: numero - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 50
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:47:44] - 8 -  Undefined variable: ffini - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:47:44] - 8 -  Trying to access array offset on value of type null - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:47:44] - 2 -  cal_days_in_month(): invalid date - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:47:44] - 8 -  Undefined variable: ffini - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:47:44] - 8 -  Trying to access array offset on value of type null - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:47:44] - 2 -  cal_days_in_month(): invalid date - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:47:44] - 8 -  Undefined variable: ffini - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:47:44] - 8 -  Trying to access array offset on value of type null - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:47:44] - 2 -  cal_days_in_month(): invalid date - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:47:44] - 8 -  Undefined variable: ffini - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:47:44] - 8 -  Trying to access array offset on value of type null - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:47:44] - 2 -  cal_days_in_month(): invalid date - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:47:44] - 8 -  Undefined variable: ffini - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:47:44] - 8 -  Trying to access array offset on value of type null - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:47:44] - 2 -  cal_days_in_month(): invalid date - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:47:44] - 8 -  Undefined variable: ffini - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:47:44] - 8 -  Trying to access array offset on value of type null - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:47:44] - 2 -  cal_days_in_month(): invalid date - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:47:44] - 8 -  Undefined variable: ffini - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:47:44] - 8 -  Trying to access array offset on value of type null - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:47:44] - 2 -  cal_days_in_month(): invalid date - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:47:44] - 8 -  Undefined variable: ffini - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:47:44] - 8 -  Trying to access array offset on value of type null - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:47:44] - 2 -  cal_days_in_month(): invalid date - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:47:44] - 8 -  Undefined variable: ffini - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:47:44] - 8 -  Trying to access array offset on value of type null - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:47:44] - 2 -  cal_days_in_month(): invalid date - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:47:44] - 8 -  Undefined variable: ffini - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:47:44] - 8 -  Trying to access array offset on value of type null - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:47:44] - 2 -  cal_days_in_month(): invalid date - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:47:44] - 8 -  Undefined variable: ffini - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:47:44] - 8 -  Trying to access array offset on value of type null - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:47:44] - 2 -  cal_days_in_month(): invalid date - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:47:44] - 8 -  Undefined variable: ffini - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:47:44] - 8 -  Trying to access array offset on value of type null - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:47:44] - 2 -  cal_days_in_month(): invalid date - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:47:47] - 8 -  Undefined variable: ffini - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:47:47] - 8 -  Trying to access array offset on value of type null - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:47:47] - 2 -  cal_days_in_month(): invalid date - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:47:47] - 8 -  Undefined variable: ffini - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:47:47] - 8 -  Trying to access array offset on value of type null - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:47:47] - 2 -  cal_days_in_month(): invalid date - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:47:47] - 8 -  Undefined variable: ffini - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:47:47] - 8 -  Trying to access array offset on value of type null - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:47:47] - 2 -  cal_days_in_month(): invalid date - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:47:47] - 8 -  Undefined variable: ffini - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:47:47] - 8 -  Trying to access array offset on value of type null - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:47:47] - 2 -  cal_days_in_month(): invalid date - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:47:47] - 8 -  Undefined variable: ffini - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:47:47] - 8 -  Trying to access array offset on value of type null - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:47:47] - 2 -  cal_days_in_month(): invalid date - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:47:47] - 8 -  Undefined variable: ffini - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:47:47] - 8 -  Trying to access array offset on value of type null - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:47:47] - 2 -  cal_days_in_month(): invalid date - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:47:47] - 8 -  Undefined variable: ffini - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:47:47] - 8 -  Trying to access array offset on value of type null - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:47:47] - 2 -  cal_days_in_month(): invalid date - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:47:47] - 8 -  Undefined variable: ffini - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:47:47] - 8 -  Trying to access array offset on value of type null - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:47:47] - 2 -  cal_days_in_month(): invalid date - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:47:47] - 8 -  Undefined variable: ffini - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:47:47] - 8 -  Trying to access array offset on value of type null - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:47:47] - 2 -  cal_days_in_month(): invalid date - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:47:47] - 8 -  Undefined variable: ffini - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:47:47] - 8 -  Trying to access array offset on value of type null - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:47:47] - 2 -  cal_days_in_month(): invalid date - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:47:47] - 8 -  Undefined variable: ffini - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:47:47] - 8 -  Trying to access array offset on value of type null - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:47:47] - 2 -  cal_days_in_month(): invalid date - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:47:47] - 8 -  Undefined variable: ffini - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:47:47] - 8 -  Trying to access array offset on value of type null - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:47:47] - 2 -  cal_days_in_month(): invalid date - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:49:38] - 8 -  Undefined variable: ffini - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:49:38] - 8 -  Trying to access array offset on value of type null - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:49:38] - 2 -  cal_days_in_month(): invalid date - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:49:38] - 8 -  Undefined variable: ffini - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:49:38] - 8 -  Trying to access array offset on value of type null - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:49:38] - 2 -  cal_days_in_month(): invalid date - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:49:38] - 8 -  Undefined variable: ffini - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:49:38] - 8 -  Trying to access array offset on value of type null - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:49:38] - 2 -  cal_days_in_month(): invalid date - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:49:38] - 8 -  Undefined variable: ffini - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:49:38] - 8 -  Trying to access array offset on value of type null - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:49:38] - 2 -  cal_days_in_month(): invalid date - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:49:38] - 8 -  Undefined variable: ffini - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:49:38] - 8 -  Trying to access array offset on value of type null - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:49:38] - 2 -  cal_days_in_month(): invalid date - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:49:38] - 8 -  Undefined variable: ffini - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:49:38] - 8 -  Trying to access array offset on value of type null - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:49:38] - 2 -  cal_days_in_month(): invalid date - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:49:38] - 8 -  Undefined variable: ffini - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:49:38] - 8 -  Trying to access array offset on value of type null - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:49:38] - 2 -  cal_days_in_month(): invalid date - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:49:38] - 8 -  Undefined variable: ffini - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:49:38] - 8 -  Trying to access array offset on value of type null - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:49:38] - 2 -  cal_days_in_month(): invalid date - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:49:38] - 8 -  Undefined variable: ffini - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:49:38] - 8 -  Trying to access array offset on value of type null - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:49:38] - 2 -  cal_days_in_month(): invalid date - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:49:38] - 8 -  Undefined variable: ffini - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:49:38] - 8 -  Trying to access array offset on value of type null - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:49:38] - 2 -  cal_days_in_month(): invalid date - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:49:38] - 8 -  Undefined variable: ffini - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:49:38] - 8 -  Trying to access array offset on value of type null - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:49:38] - 2 -  cal_days_in_month(): invalid date - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:49:38] - 8 -  Undefined variable: ffini - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:49:38] - 8 -  Trying to access array offset on value of type null - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:49:38] - 2 -  cal_days_in_month(): invalid date - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:49:41] - 8 -  Undefined variable: ffini - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:49:41] - 8 -  Trying to access array offset on value of type null - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:49:41] - 2 -  cal_days_in_month(): invalid date - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:49:41] - 8 -  Undefined variable: ffini - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:49:41] - 8 -  Trying to access array offset on value of type null - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:49:41] - 2 -  cal_days_in_month(): invalid date - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:49:41] - 8 -  Undefined variable: ffini - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:49:41] - 8 -  Trying to access array offset on value of type null - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:49:41] - 2 -  cal_days_in_month(): invalid date - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:49:41] - 8 -  Undefined variable: ffini - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:49:41] - 8 -  Trying to access array offset on value of type null - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:49:41] - 2 -  cal_days_in_month(): invalid date - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:49:41] - 8 -  Undefined variable: ffini - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:49:41] - 8 -  Trying to access array offset on value of type null - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:49:41] - 2 -  cal_days_in_month(): invalid date - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:49:41] - 8 -  Undefined variable: ffini - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:49:41] - 8 -  Trying to access array offset on value of type null - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:49:41] - 2 -  cal_days_in_month(): invalid date - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:49:41] - 8 -  Undefined variable: ffini - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:49:41] - 8 -  Trying to access array offset on value of type null - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:49:41] - 2 -  cal_days_in_month(): invalid date - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:49:41] - 8 -  Undefined variable: ffini - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:49:41] - 8 -  Trying to access array offset on value of type null - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:49:41] - 2 -  cal_days_in_month(): invalid date - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:49:41] - 8 -  Undefined variable: ffini - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:49:41] - 8 -  Trying to access array offset on value of type null - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:49:41] - 2 -  cal_days_in_month(): invalid date - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:49:41] - 8 -  Undefined variable: ffini - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:49:41] - 8 -  Trying to access array offset on value of type null - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:49:41] - 2 -  cal_days_in_month(): invalid date - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:49:41] - 8 -  Undefined variable: ffini - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:49:41] - 8 -  Trying to access array offset on value of type null - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:49:41] - 2 -  cal_days_in_month(): invalid date - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 21:49:41] - 8 -  Undefined variable: ffini - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:49:41] - 8 -  Trying to access array offset on value of type null - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 21:49:41] - 2 -  cal_days_in_month(): invalid date - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 49
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/CodeIgniter.php - Linea: 532
+[2020-08-09 22:05:03] - 8 -  Undefined variable: ffini - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 39
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-09 22:05:03] - 8 -  Trying to access array offset on value of type null - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 39
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-10 07:06:37] - 8 -  Undefined variable: i - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 57
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-10 07:06:37] - 8 -  Undefined variable: i - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 57
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-10 07:06:37] - 8 -  Undefined variable: i - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 57
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-10 07:06:37] - 8 -  Undefined variable: i - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 57
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-10 07:06:37] - 8 -  Undefined variable: i - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 57
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-10 07:06:37] - 8 -  Undefined variable: i - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 57
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-10 07:06:37] - 8 -  Undefined variable: i - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 57
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-10 07:06:37] - 8 -  Undefined variable: i - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 57
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-10 07:06:37] - 8 -  Undefined variable: i - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 57
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-10 07:06:37] - 8 -  Undefined variable: i - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 57
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-10 07:06:37] - 8 -  Undefined variable: i - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 57
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-10 07:06:37] - 8 -  Undefined variable: i - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 57
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-10 07:48:53] - 8 -  Undefined index: Kwh - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/views/web/tabs.inc.php - Linea: 107
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/Loader.php - Linea: 968
+[2020-08-10 07:48:53] - 8 -  Undefined index: Kwh - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/views/web/tabs.inc.php - Linea: 107
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/Loader.php - Linea: 968
+[2020-08-10 07:48:53] - 8 -  Undefined index: Kwh - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/views/web/tabs.inc.php - Linea: 107
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/Loader.php - Linea: 968
+[2020-08-10 07:48:53] - 8 -  Undefined index: Kwh - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/views/web/tabs.inc.php - Linea: 107
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/Loader.php - Linea: 968
+[2020-08-10 07:48:53] - 8 -  Undefined index: Kwh - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/views/web/tabs.inc.php - Linea: 107
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/Loader.php - Linea: 968
+[2020-08-10 07:48:53] - 8 -  Undefined index: Kwh - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/views/web/tabs.inc.php - Linea: 107
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/Loader.php - Linea: 968
+[2020-08-10 07:48:53] - 8 -  Undefined index: Kwh - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/views/web/tabs.inc.php - Linea: 107
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/Loader.php - Linea: 968
+[2020-08-10 07:48:53] - 8 -  Undefined index: Kwh - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/views/web/tabs.inc.php - Linea: 107
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/Loader.php - Linea: 968
+[2020-08-10 07:48:53] - 8 -  Undefined index: Kwh - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/views/web/tabs.inc.php - Linea: 107
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/Loader.php - Linea: 968
+[2020-08-10 07:48:53] - 8 -  Undefined index: Kwh - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/views/web/tabs.inc.php - Linea: 107
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/Loader.php - Linea: 968
+[2020-08-10 07:48:53] - 8 -  Undefined index: Kwh - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/views/web/tabs.inc.php - Linea: 107
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/Loader.php - Linea: 968
+[2020-08-10 07:48:53] - 8 -  Undefined index: Kwh - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/views/web/tabs.inc.php - Linea: 107
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/Loader.php - Linea: 968
