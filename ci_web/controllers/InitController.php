@@ -58,6 +58,7 @@ class InitController extends CI_Controller
       {
         $day_ini = intval($fini[0]);
         $day_fin = $numero_dias_mes;
+        $numero_dias_mes = $numero_dias_mes - $day_ini;
       }
       elseif ( $mes == intval($ffin[1]))
       {

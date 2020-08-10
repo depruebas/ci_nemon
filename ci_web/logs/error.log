@@ -466,3 +466,7 @@ referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/Loader
 referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/Loader.php - Linea: 968
 [2020-08-10 07:48:53] - 8 -  Undefined index: Kwh - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/views/web/tabs.inc.php - Linea: 107
 referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_core/core/Loader.php - Linea: 968
+[2020-08-10 09:05:17] - 8 -  Undefined variable: numero_dias_me - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 61
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
+[2020-08-10 09:05:20] - 8 -  Undefined variable: numero_dias_me - /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/controllers/InitController.php - Linea: 61
+referer: /home/depruebas/datos/wwwroot/pruebas/asco/facturas/ci_web/webroot/index.php - Linea: 315
